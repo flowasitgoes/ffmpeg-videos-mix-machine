@@ -1,0 +1,16 @@
+{
+  "name": "ffmpeg-videos-mix-machine",
+  "version": "1.0.0",
+  "description": "A tool to mix videos with effects using FFmpeg",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@ffmpeg/ffmpeg": "^0.12.15",
+    "canvas": "^3.1.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs-extra": "^11.2.0",
+    "web-audio-api": "^0.2.2"
+  }
+}

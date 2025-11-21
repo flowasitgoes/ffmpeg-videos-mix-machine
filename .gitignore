@@ -1,0 +1,56 @@
+# 媒體檔案 - 不上傳到 Git
+# Videos
+*.mp4
+*.avi
+*.mov
+*.wmv
+*.flv
+*.mkv
+*.webm
+*.m4v
+*.3gp
+*.mpg
+*.mpeg
+*.ts
+*.mts
+*.m2ts
+
+# Images/Photos
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.tif
+*.webp
+*.svg
+*.ico
+*.raw
+*.cr2
+*.nef
+*.arw
+*.dng
+
+# Audio/Music
+*.mp3
+*.wav
+*.flac
+*.aac
+*.ogg
+*.wma
+*.m4a
+*.aiff
+*.au
+*.mid
+*.midi
+
+# 其他常見媒體檔案
+*.zip
+*.rar
+*.7z
+
+# 輸出檔案（如果不需要版本控制）
+output-*.mp4
+output-*.mov
+output-*.avi
